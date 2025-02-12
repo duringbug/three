@@ -1,0 +1,5 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* 确保所有元素的宽高包括边框和内边距 */
+  }
